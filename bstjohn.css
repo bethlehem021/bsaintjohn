@@ -1,0 +1,111 @@
+body {
+  background-color: #f0bd97;
+}
+
+h1 {
+  text-align: center;
+  font-family: fantasy; copperplate;
+  font-size: 64px;
+  color: black;
+}
+
+h2 {
+  text-align: center;
+  font-weight: lighter;
+  font-variant: small-caps;
+  font-size: 30px;
+}
+
+h5 {
+  text-align: center;
+  font-style: italic;
+  font-size: 16px;
+}
+
+#oval {
+  border-radius: 50%;
+  margin-bottom: 10px;
+  width: 25%;
+}
+
+p {
+  font-size: 18px;
+}
+
+.photo {
+  width: 45%;
+}
+
+
+div {
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 12px;
+  background: white;
+  border: solid 2px #8a4d30;
+  padding: 5px;
+  margin: 20px 5px 20px 5px;
+}
+
+button {
+  width: 250px;
+  background-color: white;
+  color: black;
+  border: 2px solid brown;
+}
+
+li {
+  list-style-type: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+blockquote {
+  text-align-center;
+  color: #8a4d30;
+}
+
+h3 {
+  text-align: center;
+}
+
+a {
+  color: white;
+  text-decoration: #8a4d30 dotted underline;
+}
+
+#subheader {
+  color: red;
+  font-size: 17px;
+}
+
+#timeline-header {
+  font: italic small-caps bold 24px/30px Georgia, serif;
+}
+
+#learn-more {
+  font-size: 15px;
+}
+
+.navbar {
+  background-color: white;
+  width: 100%;
+  display: flex;
+}
+
+.nav-links {
+  padding: 0;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.nav-item {
+  padding: 10px 15px;
+  display: inline-block;
+}
